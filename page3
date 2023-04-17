@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/Stylesheet.css">
+    <title>anything but everything</title>
+   
+  </head>
+  <body>
+    <header>
+      <h1>My website is about anything and everyhting i couldnt think of a proper idea so i tougth why wont i go anything but everything its what id call a mystery website </h1>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="page2.html">News</a></li>
+        <li><a href="page3.html">why is this here?
+        </a></li>
+       
+      </ul>
+  
+    </header>
+    <main>
+      <h3>According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. But of course, bees don't care what humans think is impossible.
+
+        As Barry Benson, a young bee fresh out of college, he found himself disillusioned with the prospect of working for the rest of his life at Honex, making honey that would ultimately end up in a grocery store somewhere.</h3>
+      <p></p>
+      <p><a href="http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html">If you are bored out of your mins and you have
+        nothing to do at all then click this link and relax yourself
+      </a></p>
+    </main>
+    <footer>
+      <div class="row">
+        <div class="column">
+          <img src="Images/ER_golden_order.webp" alt="golden" style="width:60%">
+        </div>
+        <div class="column">
+          <img src="Images/Barry_b_benson.jpeg" alt="barry" style="width:60%">
+        </div>
+        <div class = "column!">
+          <img src="Images/helloworld.jpeg" alt="liuser" style="width:27%">
+        </div>
+      
+    </footer>
+
+  </body>
+
+</html>

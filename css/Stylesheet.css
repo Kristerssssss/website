@@ -1,0 +1,90 @@
+h1{ color:brown;
+    border-bottom: 10px solid }
+    h2{color : white}
+    h3{ color:aqua}
+    h4{ color:rgb(255, 0, 0)}
+    p{ color :white}
+    body {background-color: black }
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 10%;
+      }
+      .column {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+      }
+      
+      /* Clear floats after image containers */
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      /* Clear floats after image containers */
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      ul.topnav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      ul.topnav li {float: left;}
+      
+      ul.topnav li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      ul.topnav li a:hover:not(.active) {background-color: #111;}
+      
+      ul.topnav li a.active {background-color: #37ff00;}
+      
+      ul.topnav li.right {float: right;}
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ffe600;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: rgba(43, 0, 255, 0.262);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color: #f82626;
+      }
+      .active {
+        background-color: #fd1a01ac;
+      }
+      .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+      }
+      

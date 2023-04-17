@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+   
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	<title></title>
+
+
+
+	<!-- imports CSS Style Sheet -->
+	<link rel="stylesheet" type="text/css" href="css\style.css">
+
+</head>
+<body>
+          
+    
+    <div class="header">
+		
+		
+          <img src="Images/Chocolate-logo.png" width=10% height=10%><FONT COLOR="red"> Chocolate products</h1>
+        
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+} 
+
+div.d {
+  text-align: justify;
+} 
+body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #ff7700;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+</style>
+</head>
+<body>
+
+<ul class="topnav">
+  <li><a class="active" href="index.html">index</a></li>
+  <li><a href="#desert.html">desert</a></li>
+  
+</ul>
+
+
+
+</body>
+</html>
+
+</div>
+<h2>
+    <FONT COLOR="white">deserts include
+</h2>
+
+    <div class ="c">
+        <h2>this cake look very pure it looks nice an delicious many people would like to know how to make a cake look this good and yet you found
+            the right spot welcome to the deserters here i will be explaining to you how to make this beatiful looking cake which will just  melt in your mouth
+        </h2>
+        <div class="b">
+    <h2></h2>
+    <p> <img src="Images/Dessert1.jpg" width=50% height=10%></p>
+    
+
+        
+        </div>
+
+
+    <div class="a">
+        <h2></h2>
+        <p>@copyright 2022</p>
+        </div>
